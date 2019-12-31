@@ -1,2 +1,1 @@
-# dev-ops-core
-# Tara
+# Operator Prototype
